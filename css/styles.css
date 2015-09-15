@@ -6,3 +6,9 @@
   color: red;
   font-style: italic;
 }
+
+.best {
+  font-size: 150%;
+  font-weight: bold;
+  color: green;
+}
